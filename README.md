@@ -10,7 +10,8 @@
 2. 둘
 3. 셋
 
-![image](https://www.istockphoto.com/photo/pink-cherry-blossom-gm1915475779-555016460?utm_source=pixabay&utm_medium=affiliate&utm_campaign=sponsored_image&utm_content=srp_topbanner_media&utm_term=%EB%B2%9A%EA%BD%83)
+![image](https://github.com/user-attachments/assets/405cf242-5d7d-4259-8059-0bf1968b24df)
+
 
 ```cpp
 printf("HELLO");
